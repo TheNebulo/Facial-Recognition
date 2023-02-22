@@ -36,5 +36,5 @@ Run the script
 To add faces to recognise, add images to the following folder:
 
 ```bash
-  /images
+  images/
 ```
